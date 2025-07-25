@@ -78,7 +78,7 @@ This is a complete Smart Parking system built using ESP32 and C++. It allows use
 
 ## 👤 Author
 
-Abdallah Osama - 202110145  
+insta >> @B9R7 
 Language: C++  
 Platform: ESP32
 
